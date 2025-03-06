@@ -1,19 +1,37 @@
-The portfolio has three parts. 
+# 📌 Portfolio Overview  
 
-First would be Selenium with python where I would create individual python files for practicing selenium concepts.
-•	  You could clearly see the python file name and understand what topics would be covered in those.
+This portfolio consists of **three main parts**, each focusing on a different aspect of test automation:  
 
-Second would be pytest where I follow a similar pattern and try to make individual files per concept
+## 🔹 1. Selenium with Python  
+- I will create **individual Python files** for practicing Selenium concepts.  
+- Each file will be **clearly named**, so you can easily understand what topics are covered.  
 
-Third would be the beautiful Jenkins integration! Fingers crossed! Can't wait to finish this project!
+## 🔹 2. Pytest  
+- Follows a **similar structure** to the Selenium section.  
+- I'll try to make sure that each concept will have a **dedicated file** for better organization and learning.  
 
-I'll try to include comments for readers to understand the code better.
+## 🔹 3. Jenkins Integration  
+- The **final step**—bringing everything together with Jenkins!  
+- Excited to integrate it and automate the entire workflow. *Fingers crossed!* 🤞  
 
-Credits: 
-•	  I am learning selenium with python from youtube channel: Testing Funda by Zeeshan Asghar.
-•	  Jenkins from Rahul Shetty course on Udemy.
-•	  Pytest from mix of the above two courses.
-•	  I learnt Python from Angela Yu's 100 days of Python from Udemy(Python concepts are not covered in this project). Learnt enough to do testing + learnt Turtle graphics which was fun.
+---
 
+## 💡 Additional Notes  
+- I’ll add **comments** in the code to make it easier to follow.  
+- The goal is to make this **beginner-friendly** while keeping it useful for anyone exploring test automation.  
 
-Finally, Thanks for reading! Hope you could also use this project to learn Selenium. Have a great day!
+---
+
+## 🎓 Credits  
+
+- I am learning **Selenium with Python** from YouTube channel: **Testing Funda by Zeeshan Asghar**.  
+- **Jenkins** from **Rahul Shetty’s course on Udemy**.  
+- **Pytest** from a mix of the above two courses.  
+- I learnt **Python** from **Angela Yu's 100 Days of Python** on Udemy. *(Python concepts are not covered in this project, but I learnt enough to do testing + learnt Turtle graphics, which was fun.)*  
+
+---
+
+## 🚀 Final Thoughts  
+
+Thanks for reading! Hope this project helps you **learn Selenium** just as it’s helping me.  
+Feel free to explore, contribute, or ask questions. **Happy coding!** 🎉 Have a great day! 😊  
