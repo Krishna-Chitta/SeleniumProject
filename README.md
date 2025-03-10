@@ -1,6 +1,8 @@
 # 📌 Portfolio Overview  
 
-This portfolio consists of **three main parts**, each focusing on a different aspect of test automation:  
+- The idea here is to cover important concepts of selenium. Think of it as a project which provides example code to the concept but not the concept itself.
+- For example, in the repository you'll see checkbox.py in which, you'll find code for identifying and validating checkboxes using selenium.
+- This portfolio consists of **three main parts**, each focusing on a different aspect of web automation:
 
 ## 🔹 1. Selenium with Python  
 - I will create **individual Python files** for practicing Selenium concepts.  
@@ -18,7 +20,7 @@ This portfolio consists of **three main parts**, each focusing on a different as
 
 ## 💡 Additional Notes  
 - I’ll add **comments** in the code to make it easier to follow.  
-- The goal is to make this **beginner-friendly** while keeping it useful for anyone exploring test automation.  
+- The goal is to make this **beginner-friendly** while keeping it useful for anyone exploring web automation.  
 
 ---
 
@@ -34,4 +36,4 @@ This portfolio consists of **three main parts**, each focusing on a different as
 ## 🚀 Final Thoughts  
 
 Thanks for reading! Hope this project helps you **learn Selenium** just as it’s helping me.  
-Feel free to explore, contribute, or ask questions. **Happy coding!** 🎉 Have a great day! 😊  
+Feel free to explore or ask questions. **Happy coding!** 🎉 Have a great day! 😊  
